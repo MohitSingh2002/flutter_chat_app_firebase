@@ -1,4 +1,4 @@
-# fluttermochat
+# Chat App
 
 A new Flutter application.
 
